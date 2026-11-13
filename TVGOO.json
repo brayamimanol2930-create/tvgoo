@@ -1,0 +1,64 @@
+[
+{
+"id":1,
+"nombre": "Latina.pe@SD",
+"categoria": "Nacional",
+   "imagen": "https://i.imgur.com/MOsWriY.png",
+   "URL" : "http://190.93.224.42/LATINA/index.m3u8"
+ },
+ {
+   "id": 3,
+ "nombre": "Karibena.pe@SD",
+   "categoria": "Nacional",
+   "imagen": "https://i.imgur.com/cgHjg1e.png" ,
+   "URL" : "http://187.102.210.46/KARIBENA/index.m3u8"
+ },
+ {
+   "id": 4,
+   "nombre": "KoraTV.pe@SD",
+   "categoria": "Nacional",
+   "imagen": "https://i.imgur.com/ahBYv4x.png",
+  "URL" : " https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8"
+ },
+ {
+  "id": 5,
+  "nombre": "L1Max.pe@SD",
+  "categoria": "Nacional",
+  "imagen":"https://i.imgur.com/2fziU2B.png",
+   "URL" : "http://190.93.224.42/LIGA-1-MAX/index.m3u8"
+},
+ {
+  "id": 6,
+  "nombre": "LaFabulosaTV.pe@SD",
+  "categoria": "Nacional",
+   "imagen": "https://i.imgur.com/GjME5H0.png",
+  "URL" : "https://eu1.servers10.com:8081/8004/index.m3u8"
+ },
+ {
+  "id": 7,
+   "nombre": "LaTele.pe@SD",
+  "categoria": "Nacional",
+   "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
+  "URL" : "http://190.93.224.42/LA-TELE/index.m3u8"
+ },
+ {
+  "id": 8,
+   "nombre": "Latina.pe@SD",
+   "categoria": "Nacional",
+  "imagen": "https://i.imgur.com/MOsWriY.png",
+   "URL" : "http://190.93.224.42/LATINA/index.m3u8"
+ },
+{
+  "id": 9,
+  "nombre": "MasterTV.pe@SD",
+  "categoria": "Nacional",
+   "imagen": "https://i.imgur.com/K2ZimRv.png",
+  "URL" : "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8"
+ },
+{
+   "id": 10,
+  "nombre": "MediaTV.pe@SD",
+   "categoria": "Nacional",
+  "imagen": "https://i.imgur.com/BAaR5T5.png",  "URL" : "https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8"
+}
+]
